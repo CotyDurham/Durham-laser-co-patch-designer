@@ -1,0 +1,17 @@
+# Create .gitignore
+cat > .gitignore <<'EOF'
+# Node
+node_modules/
+dist/
+.build/
+.env
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.log
+
+# Mac
+*.DS_Store
+EOF
