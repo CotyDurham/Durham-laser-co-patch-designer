@@ -1,2 +1,2 @@
-# Durham-laser-co-patch-designer
-Custom Hat Patch Design Tools
+git clone https://github.com/CotyDurham/Durham-laser-co-patch-designer.git
+cd Durham-laser-co-patch-designer
